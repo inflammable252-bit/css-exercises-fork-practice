@@ -7,6 +7,10 @@ body {
   font-family: Roboto, sans-serif;
 }
 
+a {
+  text-decoration: none;
+}
+
 img {
   width: 600px;
 }
@@ -24,3 +28,8 @@ input {
   padding: 8px 24px;
   width: 400px;
 }
+
+.right-links, .left-links {
+  list-style-type: none;
+}
+
