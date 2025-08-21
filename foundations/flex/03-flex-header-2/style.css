@@ -56,6 +56,7 @@ ul {
 
 .notifications {
   display: flex;
+  justify-content: flex-end;
   margin-left: auto;
   gap: 16px;
   align-items: center;
